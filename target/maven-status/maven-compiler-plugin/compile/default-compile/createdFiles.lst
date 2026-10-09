@@ -1,0 +1,7 @@
+com\example\MediaIcons.class
+com\example\TrackInfo.class
+com\example\Animations.class
+com\example\App.class
+com\example\App$TrackCell.class
+com\example\MetadataLoader.class
+com\example\PlayerService.class

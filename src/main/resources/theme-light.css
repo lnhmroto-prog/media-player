@@ -1,0 +1,24 @@
+.root {
+    -bg: #FDF7FA;
+    -bg-tint: #F1E9FF;
+    -panel: #FFFFFF;
+    -panel-border: #EADCF5;
+    -text: #3B3350;
+    -text-muted: #7C7394;
+    -icon: #6D5BA8;
+    -hint: #6D5BA8;
+    -track-color: #E6DDF3;
+    -hover: #F7F0FF;
+    -selected: #EDE4FF;
+    -shadow: rgba(167, 139, 250, 0.35);
+
+    /* palette */
+    -accent-lavender: #A78BFA;
+    -accent-pink: #FBCFE8;
+    -accent-blue: #93C5FD;
+    -cream: #FFF6E5;
+
+    /* gradient overlays */
+    -video-bg: linear-gradient(to bottom right, #C7B8FB, #FBCFE8);     
+    -bar-bg: linear-gradient(to right, #DCEBFF, #FFF6E5);               
+}

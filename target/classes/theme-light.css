@@ -12,13 +12,11 @@
     -selected: #EDE4FF;
     -shadow: rgba(167, 139, 250, 0.35);
 
-    /* palette */
     -accent-lavender: #A78BFA;
     -accent-pink: #FBCFE8;
     -accent-blue: #93C5FD;
     -cream: #FFF6E5;
 
-    /* gradient overlays */
     -video-bg: linear-gradient(to bottom right, #C7B8FB, #FBCFE8);     
     -bar-bg: linear-gradient(to right, #DCEBFF, #FFF6E5);               
 }

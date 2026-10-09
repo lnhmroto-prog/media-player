@@ -1,5 +1,3 @@
-/* Shared look for both themes. Colours come from theme-light.css / theme-dark.css. */
-
 .root {
     -fx-font-family: "Nunito", "Poppins", "Quicksand", "Segoe UI", sans-serif;
     -fx-font-size: 13px;
@@ -10,7 +8,7 @@
     -fx-text-fill: -text;
 }
 
-/* ---------- vector icons (see MediaIcons.java) ---------- */
+
 .icon {
     -fx-fill: -icon;
 }
@@ -23,7 +21,6 @@
     -fx-fill: transparent;
 }
 
-/* ---------- video area ---------- */
 .video-pane {
     -fx-background-color: -video-bg;
     -fx-background-radius: 20;
@@ -36,7 +33,6 @@
     -fx-font-weight: bold;
 }
 
-/* ---------- control bars ---------- */
 .control-bar {
     -fx-background-color: -bar-bg;
     -fx-background-radius: 20;
@@ -53,7 +49,6 @@
     -fx-font-size: 12px;
 }
 
-/* ---------- buttons ---------- */
 .icon-button {
     -fx-background-color: -panel;
     -fx-background-radius: 50;
@@ -185,7 +180,6 @@
     -fx-padding: 1 8 1 8;
 }
 
-/* ---------- scrollbars ---------- */
 .scroll-bar:vertical,
 .scroll-bar:horizontal {
     -fx-background-color: transparent;
@@ -213,7 +207,6 @@
     -fx-padding: 0;
 }
 
-/* ---------- context menu and tooltips ---------- */
 .context-menu {
     -fx-background-color: -panel;
     -fx-background-radius: 14;
